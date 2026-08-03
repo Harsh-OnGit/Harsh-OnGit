@@ -1,4 +1,4 @@
-# 💫 About Me  
+# 💫 About Me:
 # Hi there, I'm [HARSH] 👋<br><br>🚀 Passionate Software Developer focused on building scalable, efficient, and user-friendly applications.<br><br>💻 I enjoy working with modern technologies, solving real-world problems, and continuously learning new tools and frameworks.<br><br>### 🔹 About Me<br><br>* 🌱 Currently learning and improving my skills in Full-Stack Development.<br>* 💡 Interested in Open Source, Web Development, and AI-powered applications.<br>* 🛠️ Passionate about writing clean, maintainable, and efficient code.<br>* 📚 Always exploring new technologies and best development practices.<br>* 🤝 Open to collaboration on innovative and impactful projects.<br><br>### 🛠️ Tech Stack<br><br>* **Languages:** JavaScript, Python, Java<br>* **Frontend:** HTML, CSS <br>* **Tools:** Git, GitHub, VS Code<br><br>### 🎯 Goals<br><br>To contribute to meaningful projects, strengthen my software engineering skills, and grow as a developer while creating solutions that make a positive impact.<br><br>> *"Code with purpose. Learn continuously. Build with passion."
 
 
