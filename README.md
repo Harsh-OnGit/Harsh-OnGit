@@ -1,12 +1,12 @@
-# 💫 About Me :-
-# Hii there, I'm [HARSH].... <br><br>💻 I enjoy working with modern technologies, solving real-world problems, and continuously learning new tools and frameworks.<br><br>###About Me<br><br>*  Currently learning and improving my skills in Full-Stack Development.<br>* 💡 Interested in Open Source, Web Development, and AI-powered applications Mastering in DSA, SPRING BOOOT.<br>* 🛠️ Passionate about writing clean, maintainable, and efficient code.<br>*** Always exploring new technologies and best development practices.<br>*** Open to collaboration on innovative and impactful projects.<br><br>### 🛠️ Tech Stack<br><br>* **Languages:** JavaScript, Python, Java<br>* **Frontend:** HTML, CSS <br>* **Tools:** Git, GitHub, VS Code<br><br>### 🎯 Goals<br><br>To contribute to meaningful projects, strengthen my software engineering skills, and grow as a developer while creating solutions that make a positive impact.<br><br>> *. Build with passion......."
+# 💫 About Me:
+🔭 **Building:** my journey in software engineering.<br><br>💻 **Focused on:** Java, Backend Development & Problem Solving.<br><br>🌱 **Growing through:** Java | DSA | Backend Development , Spring Boot, SQL & System Design.<br><br>🧠 **Mindset:** Learn deeply. Build consistently. Improve continuously.<br><br>🤝 **Open to:** Collaborations, Open Source & meaningful tech projects.<br><br>🎯 **Goal:** To become a skilled software engineer and build technology that makes a difference.<br><br>⚡ **Fun fact:** My favorite way to learn something new is to build it from scratch..
 
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stvrr.cosmos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HARSH.) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshraj28092004@gmail.com) 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stvrr.cosmos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harshh_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshraj28092004@gmail.com) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Harsh-OnGit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Harsh-OnGit&theme=dark&hide_border=false)<br/>
@@ -17,9 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harsh-OnGit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Harsh-OnGit&icon=0&color=0)](https://visitcount.itsvg.in)
