@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **Building:** my journey in software engineering.<br><br>💻 **Focused on:** Java, Backend Development & Problem Solving.<br><br>🌱 **Growing through:** Java | DSA | Backend Development , Spring Boot, SQL & System Design.<br><br>🧠 **Mindset:** Learn deeply. Build consistently. Improve continuously.<br><br>🤝 **Open to:** Collaborations, Open Source & meaningful tech projects.<br><br>🎯 **Goal:** To become a skilled software engineer and build technology that makes a difference.<br><br>⚡ **Fun fact:** My favorite way to learn something new is to build it from scratch..
+🔭 **Building:** my journey in software engineering.<br><br>💻 **Focused on:** Java, Backend Development & Problem Solving.<br><br>🌱 **Growing through:** Java | DSA | Backend Development , Spring Boot, SQL & System Design.<br><br>🧠 **Mindset:** Learn deeply. Build consistently. Improve continuously.<br><br>🤝 **Open to:** Collaborations, Open Source & meaningful tech projects.<br><br>🎯 **Goal:** To become a skilled software engineer and build technology that makes a difference.<br><br>⚡ **Fun fact:** My favorite way to learn something new is to build it from scratch.
 
 
 ## 🌐 Socials:
