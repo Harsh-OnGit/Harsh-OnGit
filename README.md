@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Harsh Raj
+👋 **Hi, I'm Harsh**
 
 Software Developer | Java & Backend Development | Problem Solver
 
