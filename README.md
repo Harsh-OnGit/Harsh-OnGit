@@ -3,8 +3,22 @@
 
 Software Developer | Java & Backend Development | Problem Solver
 
-I'm an engineering student passionate about software development, backend engineering, and building practical solutions to real-world problems. I enjoy turning ideas into functional applications while continuously strengthening my programming fundamentals and problem-solving abilities.<br><br>
-🔭 **Building:** my journey in software engineering.<br><br>💻 **Focused on:** Java, Backend Development & Problem Solving.<br><br>🌱 **Growing through:** Java | DSA | Backend Development , Spring Boot, SQL & System Design. <br><br>🤝 **Open to:** Collaborations, Open Source & meaningful tech projects.<br><br>🎯 **Goal:** To become a skilled software engineer and build technology that makes a difference.
+I'm an engineering student passionate about software development, backend engineering, and building practical solutions to real-world problems. I enjoy turning ideas into functional applications while continuously strengthening my programming fundamentals and problem-solving abilities.
+------------------------------------------------------------------------------------------------------------------<br><br>
+🔭 **Building:** my journey in software engineering.<br><br>💻 **Focused on:** Java, Backend Development & Problem Solving.<br><br>🌱 **Growing through:** Java | DSA | Backend Development , Spring Boot, SQL & System Design. <br><br>🤝 **Open to:** Collaborations, Open Source & meaningful tech projects.<br><br>🎯 **Goal:** To become a skilled software engineer and build technology that makes a difference.<br><br>
+🛠️ Technologies & Tools
+------------------------------------------------------------------------------------------------------------------
+Programming Languages: Java, C, Python, JavaScript
+
+Backend & APIs: Spring Boot, REST APIs, JSON
+
+Databases: MySQL, MongoDB, SQL
+
+Web Technologies: HTML5, CSS3, JavaScript
+
+Developer Tools: Git, GitHub, VS Code, Linux
+
+Currently Exploring: Docker, AWS, Redis, CI/CD, System Design, Generative AI
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stvrr.cosmos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harshh_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshraj28092004@gmail.com) 
