@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **Building:** my journey in software engineering.<br><br>💻 **Focused on:** Java, Backend Development & Problem Solving.<br><br>🌱 **Growing through:** Java | DSA | Backend Development , Spring Boot, SQL & System Design. <br><br>🤝 **Open to:** Collaborations, Open Source & meaningful tech projects.<br><br>🎯 **Goal:** To become a skilled software engineer and build technology that makes a difference.<br><br>⚡ 
+🔭 **Building:** my journey in software engineering.<br><br>💻 **Focused on:** Java, Backend Development & Problem Solving.<br><br>🌱 **Growing through:** Java | DSA | Backend Development , Spring Boot, SQL & System Design. <br><br>🤝 **Open to:** Collaborations, Open Source & meaningful tech projects.<br><br>🎯 **Goal:** To become a skilled software engineer and build technology that makes a difference.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stvrr.cosmos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harshh_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshraj28092004@gmail.com) 
