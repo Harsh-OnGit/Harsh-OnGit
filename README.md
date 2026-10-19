@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 **Hi, I'm Harsh**
 
-Aspiring Software Developer | Java & Backend Development | Problem Solver
+Aspiring Software Engineer | Java & Backend Development | Problem Solver
 
 I'm an engineering student passionate about software development, backend engineering, and building practical solutions to real-world problems. I enjoy turning ideas into functional applications while continuously strengthening my programming fundamentals and problem-solving abilities.
 
