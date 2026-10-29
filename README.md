@@ -7,6 +7,7 @@ I'm an engineering student passionate about software development, backend engine
 
 🔭 **Building:** my journey in software engineering.<br><br>💻 **Focused on:** Java, Backend Development & Problem Solving.<br><br>🌱 **Growing through:** Java | DSA | Backend Development , Spring Boot, SQL & System Design. <br><br>🤝 **Open to:** Collaborations, Open Source & meaningful tech projects.<br><br>🎯 **Goal:** To become a skilled software engineer and build technology that makes a difference.<br><br>
 
+
 🛠️ **Technologies & Tools:** 
 ------------------------------------------------------------------------------------------------------------------
 Programming Languages: Java, C, Python, JavaScript
