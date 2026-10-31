@@ -20,6 +20,7 @@ Web Technologies: HTML5, CSS3, JavaScript
 
 Developer Tools: Git and  GitHub, VS Code, Linux
 
+
 Currently Exploring: AWS, Redis, CI/CD, System Design, Generative AI
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stvrr.cosmos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harshh_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshraj28092004@gmail.com) 
