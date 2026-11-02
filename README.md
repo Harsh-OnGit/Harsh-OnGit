@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 **Hi, I'm Harsh**
+
+👋 **Hi, I'm HARSH**
 
 Aspiring Software Engineer | Java & Backend Development
 
